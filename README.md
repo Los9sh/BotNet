@@ -1,3 +1,3 @@
 # BotNet
 
-BotNet v1.0
+1.0
